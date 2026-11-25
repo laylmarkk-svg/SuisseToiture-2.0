@@ -1,6 +1,4 @@
+# Ancienne version du site SuisseToiture, abandonnee depuis fevrier 2026.
+# Le site officiel est https://suissetoiture.ch
 User-agent: *
-Allow: /
-Disallow: /admin
-Disallow: /api/
-
-Sitemap: https://suissetoiture.ch/sitemap.xml
+Disallow: /
